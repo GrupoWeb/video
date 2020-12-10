@@ -1,0 +1,40 @@
+html, body{
+  margin:0 auto;
+  padding:0 auto;
+  background-color: black !important;
+  height:100%;
+}
+
+main{
+  margin:0 auto;
+  padding:0 auto;
+}
+
+.video1{
+  /* position:relative; */
+  width: 100%;
+  /* background: gold; */
+  height: 100%;
+
+}
+
+.video-player-box{
+  height: 50%;
+}
+
+.container-video{
+  height: 20px !important;
+  max-height: 50px !important;
+}
+
+.video2{
+  z-index: 1000;
+  /* background: gold; */
+  border-radius: 4px;
+  height: 70px;
+  left: 50%;
+  position: absolute;
+  top: 5%;
+  transform: translate(30%, -50%);
+  width: 700px;
+}
