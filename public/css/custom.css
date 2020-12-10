@@ -31,10 +31,10 @@ main{
   z-index: 1000;
   /* background: gold; */
   border-radius: 4px;
-  height: 70px;
-  left: 50%;
-  position: absolute;
-  top: 5%;
-  transform: translate(30%, -50%);
-  width: 700px;
+  /* height: 70px; */
+  /* left: 50%; */
+  /* position: absolute; */
+  /* top: 5%; */
+  /* transform: translate(30%, -50%); */
+  width: 100%;
 }

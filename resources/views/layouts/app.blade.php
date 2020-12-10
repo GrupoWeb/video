@@ -33,4 +33,13 @@
         @yield('content')
     </main>
 </body>
+<script>
+        $(document).ready(function(){
+
+            var height = $(window).height();
+
+            $('#video2').height(height);
+            console.log(height);
+            });
+    </script>
 </html>
